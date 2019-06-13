@@ -2,7 +2,7 @@
 It is a simple way used to generate or check the CRC16 of Modbus Protocol;  
 ****
 ## install  
-###npm i modbuscrc -S  
+npm i modbuscrc -S  
 ****
 ## Usage  
 const CRC = require(modbuscrc);  
